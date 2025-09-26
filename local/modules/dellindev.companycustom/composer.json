@@ -1,0 +1,12 @@
+{
+  "name": "dellindev/companycustom",
+  "description": "Bitrix module: company list component with DI/PSR-4 and CRM-aware permissions",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "DellinDev\\CompanyCustom\\": "lib/"
+    }
+  },
+  "require": {}
+}
